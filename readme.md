@@ -45,3 +45,9 @@ The prediction of next 3 results:
  The final result will be closely averagely cut the [1-49] number.
 
 So, We should use another model.
+
+However, for fun, I tried to use the model which can gain the most reward to predict the next result.
+
+[![Next Result](img/best_result.jpg)](img/best_result.jpg)  
+
+Let see can this stupid model can earn model ! (BTW, the result should be random.)
